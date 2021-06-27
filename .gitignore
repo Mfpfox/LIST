@@ -1,0 +1,16 @@
+.DS_Store
+*.png
+*.jpg
+*.docx
+*.html
+.idea
+*.pyc
+*__pycache__*
+*.csv
+.ipynb_checkpoints/
+CS/
+*.pptx
+fromMISCAST_website_protVistaData/
+myCCRfiles_fromEnsemblvep_folder/
+*.xlsx
+
